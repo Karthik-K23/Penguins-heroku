@@ -10,3 +10,5 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
+
+#### Using Palmer penguin dataset to create a random forest classifier model in python to predict this species. The pickled model is used in Streamlit webframework to create the web application. This gets the users input and predicts the species of penguin using the model. This webap is deployed on Heroku platform.
